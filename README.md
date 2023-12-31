@@ -1,5 +1,7 @@
-### Hi there 👋
+# Hi there 👋
 
+- 🌱 I’m currently learning Machine Learning, Computer Vision and Reinforcement Learning
+- 📫 How to reach me: muhammadadityarahmansyahbaskoro@mail.ugm.ac.id
 <!--
 **dityrwp/dityrwp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
